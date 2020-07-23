@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import kovid from "./image/kovid.png";
 //import components
 
