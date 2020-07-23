@@ -60,7 +60,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
             <Typography color="textSecondary">
               {new Date(lastUpdate).toDateString()}
             </Typography>
-            <Typography variant="body2">Recovered so far</Typography>
+            <Typography variant="body2">Recovered </Typography>
           </CardContent>
         </Grid>
 
